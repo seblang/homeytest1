@@ -794,17 +794,17 @@
       ]
     },
     {
-      "id": "tag_reader_500",
+      "id": "tag_reader",
       "name": {
-        "en": "Tag Reader 500",
-        "nl": "Tag Reader 500"
+        "en": "Tag Reader",
+        "nl": "Tag Reader"
       },
       "zwave": {
         "manufacturerId": 138,
         "productTypeId": 7,
-        "productId": 512,
+        "productId": 257,
         "learnmode": {
-          "image": "/drivers/tag_reader_500/assets/learnmode.svg",
+          "image": "/drivers/tag_reader/assets/learnmode.svg",
           "instruction": {
             "en": "Press and hold the tamper switch about a second until indication LED blinks once per second, then release to start the add/remove routine.",
             "nl": "Press and hold the tamper switch about a second until indication LED blinks once per second, then release to start the add/remove routine."
@@ -852,8 +852,8 @@
         ]
       },
       "images": {
-        "large": "/drivers/tag_reader_500/assets/images/large.png",
-        "small": "/drivers/tag_reader_500/assets/images/small.png"
+        "large": "/drivers/tag_reader/assets/images/large.png",
+        "small": "/drivers/tag_reader/assets/images/small.png"
       },
       "settings": [
         {
@@ -1055,7 +1055,7 @@
           {
             "type": "device",
             "name": "device",
-            "filter": "driver_id=tag_reader_500"
+            "filter": "driver_id=tag_reader"
           }
         ]
       },
@@ -1104,7 +1104,7 @@
           {
             "type": "device",
             "name": "device",
-            "filter": "driver_id=tag_reader_500"
+            "filter": "driver_id=tag_reader"
           }
         ]
       },
@@ -1153,7 +1153,7 @@
           {
             "type": "device",
             "name": "device",
-            "filter": "driver_id=tag_reader_500"
+            "filter": "driver_id=tag_reader"
           }
         ]
       },
@@ -1213,7 +1213,7 @@
           {
             "type": "device",
             "name": "device",
-            "filter": "driver_id=tag_reader_500"
+            "filter": "driver_id=tag_reader"
           }
         ]
       },
@@ -1273,7 +1273,7 @@
           {
             "type": "device",
             "name": "device",
-            "filter": "driver_id=tag_reader_500"
+            "filter": "driver_id=tag_reader"
           }
         ]
       }
@@ -1293,7 +1293,7 @@
           {
             "type": "device",
             "name": "device",
-            "filter": "driver_id=tag_reader_500"
+            "filter": "driver_id=tag_reader"
           },
           {
             "name": "person",
@@ -1318,7 +1318,7 @@
           {
             "type": "device",
             "name": "device",
-            "filter": "driver_id=tag_reader_500"
+            "filter": "driver_id=tag_reader"
           }
         ]
       }
@@ -1338,7 +1338,7 @@
           {
             "type": "device",
             "name": "device",
-            "filter": "driver_id=tag_reader_500"
+            "filter": "driver_id=tag_reader"
           },
           {
             "name": "person",
@@ -1364,7 +1364,7 @@
           {
             "type": "device",
             "name": "device",
-            "filter": "driver_id=tag_reader_500"
+            "filter": "driver_id=tag_reader"
           },
           {
             "name": "person",
